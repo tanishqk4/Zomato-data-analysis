@@ -60,10 +60,20 @@ Created visualizations using Matplotlib and Seaborn:
 
 ## Key Insights
 - Identified restaurant categories with the highest customer engagement
+  <img width="571" height="432" alt="types of resturant" src="https://github.com/user-attachments/assets/f22e4815-bee7-4e02-b000-3c1db12a3906" />
+
 - Found differences in customer preferences between online and offline ordering
+  <img width="544" height="525" alt="online vs offline rating" src="https://github.com/user-attachments/assets/0bd9ff66-6042-424a-8766-0bc4950e76a0" />
+  
 - Analyzed average spending behavior among couples
+  <img width="562" height="433" alt="avaerage order" src="https://github.com/user-attachments/assets/86ed222c-1af9-473f-b283-34de3db17b5e" />
+
 - Determined which restaurant types received more offline orders
+  <img width="530" height="455" alt="off =line comaprison" src="https://github.com/user-attachments/assets/839990f5-bf13-467a-974b-191089bd2091" />
+
 - Observed trends between restaurant ratings and order preferences
+  <img width="543" height="435" alt="rating distribution" src="https://github.com/user-attachments/assets/a7a57ae8-cc0e-4d29-a633-76bdfac71b0b" />
+
 
 ---
 
