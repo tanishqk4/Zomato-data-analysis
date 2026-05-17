@@ -66,6 +66,7 @@ Created visualizations using Matplotlib and Seaborn:
   <img width="544" height="525" alt="online vs offline rating" src="https://github.com/user-attachments/assets/0bd9ff66-6042-424a-8766-0bc4950e76a0" />
   
 - Analyzed average spending behavior among couples
+  
   <img width="562" height="433" alt="avaerage order" src="https://github.com/user-attachments/assets/86ed222c-1af9-473f-b283-34de3db17b5e" />
 
 - Determined which restaurant types received more offline orders
